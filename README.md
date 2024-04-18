@@ -1,6 +1,6 @@
 <div align = "center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=200&section=header&text=BE%20Developer,%20nammsamm&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0&height=200&section=header&text=BE%20Developer,%20nammsamm&fontSize=50)
 
 ![SpringBoot](http://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](http://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
