@@ -50,7 +50,7 @@
      <td align="center">졸업 프로젝트 chatcipe</td>
    </tr>
    <tr width="100%">
-     <td align="center"><a href="https://github.com/EFUB-SURFERS/BagEasy-back.git"><b>BagEasy</b></a></td>
+     <td align="center"><a href="https://github.com/nammsamm/BagEasy-back/blob/develop/README.md"><b>BagEasy</b></a></td>
      <td align="center">백엔드</td>
      <td align="center">2023.07 ~ 2023.8</td>
      <td align="center">OOO 3기 SWS 여름 방학 프로젝트</td>
